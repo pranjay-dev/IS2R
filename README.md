@@ -11,7 +11,13 @@
   <img src="assets/teaser_3.gif" alt="example input output gif" width="320" />
 </p>
 
-
+<hr />
+<p align="center">
+  <img src="assets/video.gif" alt="example input output gif" width="600" />
+</p>
 
 <hr />
+
+### Updates 
+* 2022.03.03 - Due to large size of the complete dataset (>5 TB), we would make the script for generating syntehtic dataset using CARLA online. We are still figuring out the approach to opensource the real dataset (~ 2TB). 
 
