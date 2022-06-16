@@ -4,20 +4,19 @@
 ### TL;DR : 2 : Methodology for Domain Adaptation to ensure robust performance in adverse weather conditions.
 
 <hr />
+Performance on Proposed Infrastructure Dataset (Stationary Cameras)
 
 <p align="center">
-  <img src="assets/teaser_1.gif" alt="example input output gif" width="320" />
-  <img src="assets/teaser_2.gif" alt="example input output gif" width="320" />
-  <img src="assets/teaser_3.gif" alt="example input output gif" width="320" />
+  <img src="assets/teaser_1.gif" width="320" />
+  <img src="assets/teaser_2.gif" width="320" />
+  <img src="assets/teaser_3.gif" width="320" />
 </p>
 
 <hr />
+Overview of the Synthetic dataset capture process
 <p align="center">
-  <img src="assets/video.gif" alt="example input output gif" width="600" />
+  <img src="assets/video.gif" width="600" />
 </p>
 
-<hr />
 
-### Updates 
-* 2022.03.03 - Due to large size of the complete dataset (>5 TB), we would make the script for generating syntehtic dataset using CARLA online. We are still figuring out the approach to opensource the real dataset (~ 2TB). 
 
